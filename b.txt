@@ -7,4 +7,9 @@ Hey .... I m from local
 Hey .....  I m from remote
 
 Again from remote
+<<<<<<< HEAD
 again from local
+=======
+
+Changing jhgkjhkjgjkhjjk
+>>>>>>> eec867017f27a410ba5abca6d7026ca97bf21d69
